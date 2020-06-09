@@ -1,8 +1,8 @@
-import { Component, OnInit, Input, OnChanges, SimpleChanges } from '@angular/core';
-import { EntityBase } from '../core/entity-base.model';
+import { Component, OnInit, Input } from '@angular/core';
+import { EntityBase } from './entity-base.model';
 import { FormGroup, FormControl } from '@angular/forms';
-import { MetadataItem } from '../core/metadata-item.model';
-import { Factory } from '../core/factory';
+import { MetadataItem } from './metadata-item.model';
+import { Factory } from './factory';
 
 @Component({
   selector: 'app-base',
