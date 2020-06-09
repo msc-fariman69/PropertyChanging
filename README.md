@@ -1,2 +1,2 @@
 # PropertyChanging
-Simple implementation of having changing property of class in generic component
+How to handle changing property of a class when we work with generic component
